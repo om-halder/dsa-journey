@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 DSA Journey
 
 Solving DSA problems consistently, one day at a time.  
@@ -68,3 +69,7 @@ Full problem list → [progress.md](./progress.md)
 
 Become consistently good at problem solving.  
 Target: **300+ problems** by end of year.
+=======
+# dsa-journey
+A structured DSA journey with clean C++ solutions, organized by topic with complexity analysis.
+>>>>>>> cc08a2c2acaa8941b372208434089cc876bb976e
